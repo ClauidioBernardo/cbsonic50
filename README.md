@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @cbsonic50
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cbsonic50/cbsonic50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in  programação
+- 🌱 I’m currently learning  o  básico em programação  na 42sp.
+- 💞️ I’m looking to collaborate  em projetos  que  procisem de iniciantes com vontade de aprender.
+klaudiobernardo@gmail.com
